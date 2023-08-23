@@ -5,6 +5,7 @@ git:
     pager: delta --dark --paging=never
 gui:
   nerdFontsVersion: "3"
+  border: "rounded"
   theme:
     selectedLineBgColor:
       - underline
