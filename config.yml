@@ -8,7 +8,5 @@ gui:
   border: "rounded"
   theme:
     selectedLineBgColor:
-      - underline
-    selectedRangeBgColor:
-      - reverse
+      - "#363d59"
 
