@@ -1,12 +1,6 @@
-git:
-  autoFetch: false
-  paging:
-    colorArg: always
-    pager: delta --dark --paging=never
 gui:
   nerdFontsVersion: "3"
   border: "rounded"
   theme:
     selectedLineBgColor:
       - "#363d59"
-
